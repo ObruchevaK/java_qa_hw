@@ -21,7 +21,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>ua.com.alevel.Main</mainClass>
+                            <mainClass>ua.com.alevel.HW1.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>
